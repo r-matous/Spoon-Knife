@@ -1,6 +1,6 @@
 package client;
 
-public class DVD{
+public final class DVD{
     private final String title;
 
     public DVD(final String title) {
@@ -11,4 +11,5 @@ public class DVD{
     public String getTitle() {
          return title;  
     }
+
 }
