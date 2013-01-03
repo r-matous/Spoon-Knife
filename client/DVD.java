@@ -11,10 +11,6 @@ public final class DVD{
         this.title = title;
     }
    
-    private static String getResourceString(final String title) {
-      ResourceBundle.getString(title);
-    }
-
     public String getTitle() {
          return title;  
     }
@@ -25,4 +21,9 @@ public final class DVD{
         }
         this.title = title;
     }
+
+    private static String getResourceString(final String title) {
+      ResourceBundle.getString(title);
+    }
+
 }
