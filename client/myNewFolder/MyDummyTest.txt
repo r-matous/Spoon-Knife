@@ -7,3 +7,5 @@ Second commit.
 Third commit.
 
 Fourth commit, which I'm going to push by itself.
+
+Fifth commit, which I'll bundle with 6th commit and push.
