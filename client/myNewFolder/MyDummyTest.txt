@@ -1,3 +1,5 @@
 This is a change on a branch.
 
 Making subsequent changes on RichDevBranch after initial pull request.
+
+Second commit.
