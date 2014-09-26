@@ -5,3 +5,5 @@ Making subsequent changes on RichDevBranch after initial pull request.
 Second commit.
 
 Third commit.
+
+Fourth commit, which I'm going to push by itself.
