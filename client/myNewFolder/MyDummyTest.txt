@@ -1,1 +1,15 @@
 This is a change on a branch.
+
+Making subsequent changes on RichDevBranch after initial pull request.
+
+Second commit.
+
+Third commit.
+
+Fourth commit, which I'm going to push by itself.
+
+Fifth commit, which I'll bundle with 6th commit and push.
+
+Sixth commit, which I'll push with 5th.
+
+Seventh commit, which I'll push by itself after a general comment was made.
